@@ -1,3 +1,4 @@
 ﻿# CS116_practice
- ## This repo is about practice lab CS116 in university
+ ## This repo is about practice code python for machine learning in university
+
 
